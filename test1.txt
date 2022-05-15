@@ -2,4 +2,6 @@ create test1.txt
 222222222222222
 3333333333master333
 4444444444hot_fix444
+hot_fix modify first
+master modify secend
 55555555hot_fix three commit
